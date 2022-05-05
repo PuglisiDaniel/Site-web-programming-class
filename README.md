@@ -1,5 +1,6 @@
 # Site-web-programming-class
-Final project made on the web programming class. The project should had used a PHP/MySQL connection, have a login system with md5 function and have the basic MySQL functions working on(CRUD).
-The theme used was a software site that is able to monitor patients full time and warn their doctors in case of a fall. On this site we have 2 types of users (administrators and caregivers) who can use CRUD in different parts of our database.
+
+Projeto final feito na disciplina de programação web. O projeto deveria utilizar uma conexão PHP/SQL, ter um sistema de login com utilizando md5 e ter as funções básicas do SQL funcionando(CRUD)
+O tema usado foi um site de um software capaz de monitorar os pacientes e alertar seus cuidadores em caso de queda. No site existem 2 tipos de usuários(administradores e cuidadores), eles podem utilizar o CRUD em diferentes partes do banco de dados conforme suas funções.
 
 Site address: http://monitoramento.orgfree.com
