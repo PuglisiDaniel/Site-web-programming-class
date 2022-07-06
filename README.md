@@ -4,3 +4,6 @@ Projeto final feito na disciplina de programação web. O projeto deveria utiliz
 O tema usado foi um site de um software capaz de monitorar os pacientes e alertar seus cuidadores em caso de queda. No site existem 2 tipos de usuários(administradores e cuidadores), eles podem utilizar o CRUD em diferentes partes do banco de dados conforme suas funções.
 
 Site address: http://monitoramento.orgfree.com
+
+
+<img src="paginaInicial.jpeg" width="400">
