@@ -6,4 +6,4 @@ O tema usado foi um site de um software capaz de monitorar os pacientes e alerta
 Site address: http://monitoramento.orgfree.com
 
 
-<img src="paginaInicial.jpeg" width="400">
+<img src="paginaInicial.png" width="400">
